@@ -5,7 +5,7 @@ import plotly.express as px
 import streamlit as st 
 import matplotlib.pyplot as plt
 import seaborn as sns
-import tkinter
+#import tkinter
 import matplotlib
 import webbrowser
 

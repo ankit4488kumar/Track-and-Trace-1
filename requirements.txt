@@ -5,3 +5,5 @@ plotly==5.9.0
 streamlit==1.11.0
 seaborn==0.12.2
 tkinter==0.1.0
+requests==2.23.0
+Pillow >= 7
